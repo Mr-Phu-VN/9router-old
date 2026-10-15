@@ -1,1 +1,1 @@
-docker buildx build --platform linux/amd64 -t 10.79.60.23:8010/9router:0.5.65 --load .
+docker buildx build --platform linux/amd64 -t 10.79.60.23:8010/9router:0.5.99 --load .
